@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Why-coding.github.io/sitemap.xml
+Sitemap: https://why-coding.github.io/sitemap.xml
