@@ -1,6 +1,6 @@
 ---
 layout: page
-title: news
+title: <strong style="color: red;">Recent News</strong>
 permalink: /news/
 ---
 
