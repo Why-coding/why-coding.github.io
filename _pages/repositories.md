@@ -1,47 +1,22 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
-nav: true
-nav_order: 4
+title: Experience
 ---
 
-## GitHub users
+## Teaching Experience
+* **Graduate Teaching Assistant** at George Mason University. _[August 2022 - May 2023]_ <br />
+   Courses:
+     - Object-Oriented Programming (CS 211)
 
-{% if site.data.repositories.github_users %}
+## Academic Experience
+* **Graduate Research Assistant** at <a href='https://cs.gmu.edu/~xiao/RobotiXX/lab.html'>RobotiXX Lab</a> . _[May 2023 - current]_ <br />
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
+## Industry Experience
+* **Senior Software Engineer (Full-stack Developer)** in Samsung R&D Institute Bangladesh(SRBD), Dhaka, Bangladesh. _[October 2019 - July 2022]_
 
----
 
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
+## Awards
 
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-## GitHub Repositories
-
-{% if site.data.repositories.github_repos %}
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
+* **GMU IDIA Predoctoral Fellowship Award** (Bachelor of Science)
+* **Board Talent Scholarship** Higher Secondary Certificate from Dhaka Education Board, Bangladesh
