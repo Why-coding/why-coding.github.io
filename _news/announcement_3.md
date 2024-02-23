@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-01 
+date: 2022-08-22 
 inline: true
 related_posts: false
 ---
 
-Our paper <a href='https://arxiv.org/pdf/2310.06198.pdf'>Motion Memory: Leveraging Past Experiences to Accelerate Future Motion Planning</a> got accepted at ICRA2024 :smile:
+I have joined the Department of Computer Science at George Mason University as a Graduate Teaching Assistant. I will be teaching CS211: Object-Oriented Programming.
