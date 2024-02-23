@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -22,4 +21,3 @@ My academic journey began with a Bachelor's degree in Computer Science and Engin
 
 Beyond my academic and professional pursuits, I am deeply passionate about drama and acting, activities that allow me to explore various narratives and emotions. Sports, including cricket and tennis, alongside participation in social activities, reflect my commitment to a balanced lifestyle. Traveling holds a special place in my life, offering opportunities to discover new places and engage with diverse cultures.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
