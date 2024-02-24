@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal space! I am Dibyendu Das, a PhD student in the Department of Computer Science at George Mason University. My research interests lies in Robotics, Computer Vision, Deep Learning, and Artificial Intelligence. Currently, I am working as a Graduate Research Assistant in the <a href='https://cs.gmu.edu/~xiao/RobotiXX/lab.html'>RobotiXX Lab</a>, guided by <a href='https://cs.gmu.edu/~xiao/index.html'>Dr. Xuesu Xiao</a>. My recent project is focused on developing memory-based motion planning techniques for autonomous robots. 
+Welcome to my personal space. I am Dibyendu Das, a PhD student in the Department of Computer Science at George Mason University. My research interests lies in Robotics, Computer Vision, Deep Learning, and Artificial Intelligence. Currently, I am working as a Graduate Research Assistant in the <a href='https://cs.gmu.edu/~xiao/RobotiXX/lab.html'>RobotiXX Lab</a>, guided by <a href='https://cs.gmu.edu/~xiao/index.html'>Dr. Xuesu Xiao</a>. My recent project is focused on developing memory-based motion planning techniques for autonomous robots. 
 
 My academic journey began with a Bachelor's degree in Computer Science and Engineering from the Bangladesh University of Engineering and Technology, graduating in April 2019. Following my graduation, I contributed as a senior software engineer at Samsung R&D Institute Bangladesh, where I honed my skills in software development and innovation.
 
