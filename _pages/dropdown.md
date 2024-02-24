@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: Experience & Projects
 nav: true
 nav_order: 8
 dropdown: true
