@@ -21,5 +21,5 @@ My academic journey began with a Bachelor's degree in Computer Science and Engin
 
 Beyond my academic and professional pursuits, I am deeply passionate about drama and acting, activities that allow me to explore various narratives and emotions. Sports, including cricket and tennis, alongside participation in social activities, reflect my commitment to a balanced lifestyle. Traveling holds a special place in my life, offering opportunities to discover new places and engage with diverse cultures.
 
-For additional information, please see my <a href='https://drive.google.com/file/d/1Q_1C4xteuSSxM0wQP-2Ba1YQZXWmSg47/view?usp=drive_link'>CV</a> and <a href='https://scholar.google.com/citations?user=8ZFyDGkAAAAJ&hl=en'>publications</a>.
+For additional information, please see my <a href='https://drive.google.com/file/d/1pD5CEsNrJvGSvlv9BsSnwJ403NKHl6Zl/view?usp=drive_link'>CV</a> and <a href='https://scholar.google.com/citations?user=8ZFyDGkAAAAJ&hl=en'>publications</a>.
 
